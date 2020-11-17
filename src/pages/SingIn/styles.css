@@ -1,0 +1,64 @@
+body {
+    background-color: #e8e8e8;
+}
+img#icone {
+    width: 50px;
+    margin: 5%;
+    margin-left: 10%;
+}
+img#logo {
+    width: 400px;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 5%;
+}
+
+button#login{
+    width: 90%;
+    display: table;
+    margin: 0 auto;
+    background-color: #30475e;
+    border-radius: 5px;
+    height: 40px;
+    color: #e8e8e8;
+    font-weight: bolder;
+    font-size: large;
+}
+button#cc{
+    width: 90%;
+    display: table;
+    margin: 0 auto;
+    background-color: #16a596;
+    border-radius: 5px;
+    height: 35px;
+    color: #e8e8e8;
+    font-weight: bolder;
+    font-size: large;
+    margin-bottom: 2%;
+}
+
+input{
+    width: 85%;
+    display: table;
+    margin: 0 auto;
+    font-size: medium;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 25px;
+    border-radius: 3px;
+}
+p#ou{
+    display: table;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: large;
+    font-weight: bolder;
+}
+
+a#cc{
+    display: table;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
